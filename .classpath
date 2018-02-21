@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="AS Excercises 1.11 &amp; 1.12/src"/>
+	<classpathentry kind="src" path="Assignment #1/src"/>
+	<classpathentry kind="src" path="Flag/src"/>
+	<classpathentry kind="src" path="Hivolts/src"/>
+	<classpathentry kind="src" path="Logical Sentence Puzzle/src"/>
+	<classpathentry kind="src" path="Mapcar/src"/>
+	<classpathentry kind="src" path="Scope/src"/>
+	<classpathentry kind="src" path="Three Sorts/src"/>
+	<classpathentry kind="src" path="Vocabulary 11/src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="AS Excercises 1.11 &amp; 1.12/bin"/>
+</classpath>
